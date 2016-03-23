@@ -1,0 +1,2 @@
+# WSTableHeaderFooterViewAndTitleStop
+这个demo主要介绍了给tableView设置组头/组尾视图；给tableView的每个分组（section）设置标题，并且如何达到tableView拖动的时候标题悬停的效果。
